@@ -3,7 +3,7 @@
 
 ![srcreenshot](screenshot.png)
 
-##main.h:
+## main.h:
 
 ```
 
@@ -21,7 +21,7 @@ protected:
 };
 ```
 
-##main.cpp:
+## main.cpp:
 
 ```
 // ЭТО РЕАЛИЗАЦИЯ НАШЕГО МЕТОДА!
