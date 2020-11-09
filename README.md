@@ -17,7 +17,7 @@ protected:
     // protected event handlers
     virtual void OnCloseFrame(
         wxCloseEvent& event); // Копируем сюда из gui.h те методы, которые хотим реально реализовать
-    virtual void myClick(wxCommandEvent& event); // иначе все обявленные методы в gui.h останутся "пустыми"
+    virtual void myClick(wxCommandEvent& event); // иначе все объявленные методы в gui.h останутся "пустыми"
 };
 ```
 
